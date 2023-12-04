@@ -42,3 +42,16 @@
     color: darkblue;
     cursor: pointer;
 }
+
+.get-started-button {
+    background: rgb(168, 4, 201);
+    border: none;
+    margin-left: 10px;
+    height: 30px;
+    width: 95px;
+    color: white;
+    font-weight: bold;
+    border-radius: 4px;
+    font-size: 11px;
+    cursor: pointer;
+}
